@@ -1,0 +1,444 @@
+{
+  "name": "CustomIcons",
+  "css_prefix_text": "",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "e22ecad4dc9693bd8a58944fa25fdad5",
+      "css": "facebook",
+      "code": 59392,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M1000 500C1000 223.8 776.2 0 500 0 223.8 0 0 223.8 0 500 0 749.6 182.8 956.4 421.9 994V644.5H294.9V500H421.9V389.8C421.9 264.5 496.5 195.3 610.7 195.3 665.4 195.3 722.7 205.1 722.7 205.1V328.1H659.6C597.5 328.1 578.1 366.6 578.1 406.1V500H716.8L694.6 644.5H578.1V994C817.2 956.4 1000 749.6 1000 500Z",
+        "width": 1000
+      },
+      "search": [
+        "facebook"
+      ]
+    },
+    {
+      "uid": "f35c86ab806bf7f71b749ddc38b61f36",
+      "css": "googel",
+      "code": 59393,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M500 0C224 0 0 224 0 500 0 776 224 1000 500 1000 776 1000 1000 776 1000 500 1000 224 776 0 500 0ZM357.5 750C291.2 750 227.6 723.7 180.7 676.8 133.8 629.9 107.5 566.3 107.5 500 107.5 433.7 133.8 370.1 180.7 323.2 227.6 276.3 291.2 250 357.5 250 420.6 250 478.6 272.2 524.8 315.1L457.1 380.8C430.4 354.8 394 342.3 357.5 342.3 271 342.3 201.8 413.9 201.8 499.8 201.8 585.7 270.8 657.3 357.5 657.3 423.2 657.3 488.3 618.8 498.8 549.8H357.5V463.9H593.1C595.7 477.7 597 491.6 597 505.6 597 648.4 501.2 750 357.5 750ZM821.6 535.9V607.5H750V535.9H678.4V464.3H750V392.7H821.6V464.3H892.5V535.9H821.6Z",
+        "width": 1000
+      },
+      "search": [
+        "googel"
+      ]
+    },
+    {
+      "uid": "27719d9da9c22ce3ccf691b5c91c4ca1",
+      "css": "person_1",
+      "code": 59394,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "",
+        "width": 980
+      },
+      "search": [
+        "person_1"
+      ]
+    },
+    {
+      "uid": "1c292db3accfae860960165a4853b23c",
+      "css": "person_2",
+      "code": 59395,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "",
+        "width": 980
+      },
+      "search": [
+        "person_2"
+      ]
+    },
+    {
+      "uid": "92dbd1c7aac29c6674b388554596d16a",
+      "css": "person_3",
+      "code": 59396,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "",
+        "width": 980
+      },
+      "search": [
+        "person_3"
+      ]
+    },
+    {
+      "uid": "77fb1373e5118f9786386b082631dc9b",
+      "css": "person_4",
+      "code": 59397,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "",
+        "width": 980
+      },
+      "search": [
+        "person_4"
+      ]
+    },
+    {
+      "uid": "68f7f7f94e0cac2d9425c9cccf98dcee",
+      "css": "person_5",
+      "code": 59398,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "",
+        "width": 980
+      },
+      "search": [
+        "person_5"
+      ]
+    },
+    {
+      "uid": "d4432846c30b45e6f1a018137ab40486",
+      "css": "person_6",
+      "code": 59399,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "",
+        "width": 980
+      },
+      "search": [
+        "person_6"
+      ]
+    },
+    {
+      "uid": "4462357c42eeb873f9bd98db54e5dfc6",
+      "css": "person_7",
+      "code": 59400,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "",
+        "width": 980
+      },
+      "search": [
+        "person_7"
+      ]
+    },
+    {
+      "uid": "8196813984388abdac66d0f179422431",
+      "css": "person_8",
+      "code": 59401,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "",
+        "width": 980
+      },
+      "search": [
+        "person_8"
+      ]
+    },
+    {
+      "uid": "a733c51f9dc3d4ff6af0cceac94f2c1c",
+      "css": "person_9",
+      "code": 59402,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "",
+        "width": 980
+      },
+      "search": [
+        "person_9"
+      ]
+    },
+    {
+      "uid": "5b196d85074c6907b3840613c622be7f",
+      "css": "person_10",
+      "code": 59403,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "",
+        "width": 980
+      },
+      "search": [
+        "person_10"
+      ]
+    },
+    {
+      "uid": "006209e06ffa5ee68683262c273e66ec",
+      "css": "person_11",
+      "code": 59404,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "",
+        "width": 980
+      },
+      "search": [
+        "person_11"
+      ]
+    },
+    {
+      "uid": "8a39c32da118055d7361e9769cd5924c",
+      "css": "person_12",
+      "code": 59405,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "",
+        "width": 980
+      },
+      "search": [
+        "person_12"
+      ]
+    },
+    {
+      "uid": "246fdda0d2fd782542144c97e4e4d5c1",
+      "css": "pen",
+      "code": 59406,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M708.4 36.6L613.9 131.2 867.8 385.1 962.3 290.5C1011.1 241.7 1011.1 162.6 962.3 113.8L885.3 36.6C836.5-12.2 757.4-12.2 708.6 36.6H708.4ZM569.7 175.3L114.4 630.8C94.1 651.1 79.3 676.3 71.1 703.8L1.9 938.8C-2.9 955.4 1.5 973.1 13.7 985.3 25.8 997.4 43.5 1001.9 59.9 997.2L294.9 928C322.4 919.8 347.6 905 368 884.7L823.6 429.2 569.7 175.3Z",
+        "width": 1000
+      },
+      "search": [
+        "pen"
+      ]
+    },
+    {
+      "uid": "49b190168e5bae8ddd332d3f1123ec05",
+      "css": "playing",
+      "code": 59407,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "",
+        "width": 1000
+      },
+      "search": [
+        "playing"
+      ]
+    },
+    {
+      "uid": "bf801103aedb85b7ecd310bc65c3b57f",
+      "css": "number-blocks",
+      "code": 59408,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "",
+        "width": 1000
+      },
+      "search": [
+        "number-blocks"
+      ]
+    },
+    {
+      "uid": "2316f9dedcdd4847cee4f12e6bb03cde",
+      "css": "growth",
+      "code": 59409,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "",
+        "width": 1000
+      },
+      "search": [
+        "growth"
+      ]
+    },
+    {
+      "uid": "0a1ecb919ee018c1432c097774a0b9af",
+      "css": "growth1",
+      "code": 59410,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "",
+        "width": 1000
+      },
+      "search": [
+        "growth1"
+      ]
+    },
+    {
+      "uid": "40090abc8582e0e80e5fa8d868bf13c2",
+      "css": "juice",
+      "code": 59411,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "",
+        "width": 1000
+      },
+      "search": [
+        "juice"
+      ]
+    },
+    {
+      "uid": "fe173e7a7f3d61af32db1c7e9b4ddf38",
+      "css": "interest",
+      "code": 59412,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "",
+        "width": 1000
+      },
+      "search": [
+        "interest"
+      ]
+    },
+    {
+      "uid": "70e3e3ed49f19a1452343476bea3fade",
+      "css": "paint-palette",
+      "code": 59413,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "",
+        "width": 1000
+      },
+      "search": [
+        "paint-palette"
+      ]
+    },
+    {
+      "uid": "cfc4ddcd6e6b4a5b97c8c60a9e046f7d",
+      "css": "shapes",
+      "code": 59414,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "",
+        "width": 1000
+      },
+      "search": [
+        "shapes"
+      ]
+    },
+    {
+      "uid": "1d297938429a0b2e975d37c43d1967ec",
+      "css": "cats",
+      "code": 59415,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "",
+        "width": 1000
+      },
+      "search": [
+        "cats"
+      ]
+    },
+    {
+      "uid": "81e57c4d6c64d380ab655a7217c868b7",
+      "css": "card-games",
+      "code": 59416,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "",
+        "width": 1000
+      },
+      "search": [
+        "card-games"
+      ]
+    },
+    {
+      "uid": "4c8ea75be30b1f1b4a1c6415ada30f52",
+      "css": "family",
+      "code": 59417,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "",
+        "width": 1000
+      },
+      "search": [
+        "family"
+      ]
+    },
+    {
+      "uid": "424a9fe4ad6aa754e81e5f39beb9f6b1",
+      "css": "book",
+      "code": 59418,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M214.3 0C96 0 0 84 0 187.5V812.5C0 916 96 1000 214.3 1000H857.1 928.6C968.1 1000 1000 972.1 1000 937.5 1000 902.9 968.1 875 928.6 875V750C968.1 750 1000 722.1 1000 687.5V62.5C1000 27.9 968.1 0 928.6 0H857.1 214.3ZM214.3 750H785.7V875H214.3C174.8 875 142.9 847.1 142.9 812.5 142.9 777.9 174.8 750 214.3 750ZM285.7 281.3C285.7 264.1 301.8 250 321.4 250H750C769.6 250 785.7 264.1 785.7 281.3 785.7 298.4 769.6 312.5 750 312.5H321.4C301.8 312.5 285.7 298.4 285.7 281.3ZM321.4 375H750C769.6 375 785.7 389.1 785.7 406.3 785.7 423.4 769.6 437.5 750 437.5H321.4C301.8 437.5 285.7 423.4 285.7 406.3 285.7 389.1 301.8 375 321.4 375Z",
+        "width": 1000
+      },
+      "search": [
+        "book"
+      ]
+    },
+    {
+      "uid": "6696ebe3c51410e8694bd9c345e2a5e0",
+      "css": "share",
+      "code": 59419,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M628.6 437.5H545.5C465.2 437.5 400 508.8 400 596.7 400 640.2 418.4 663.7 434.3 675.8 446.4 685 457.1 699.2 457.1 715.4 457.1 734.6 442.9 750.2 425.4 750.2H420.9C416.6 750.2 412.3 749.4 408.2 747.5 376.4 732 228.6 651.2 228.6 468.8 228.6 313.5 343.8 187.5 485.7 187.5H628.6V67.8C628.6 30.3 656.3 0 690.5 0 705.9 0 720.5 6.2 732 17.4L978.7 260.4C992.3 273.6 1000 292.6 1000 312.5 1000 332.4 992.3 351.4 978.7 364.6L730.5 609C720 619.3 706.4 625 692.3 625H685.7C654.1 625 628.6 597.1 628.6 562.5V437.5ZM142.9 187.5C127.1 187.5 114.3 201.6 114.3 218.8V843.8C114.3 860.9 127.1 875 142.9 875H714.3C730 875 742.9 860.9 742.9 843.8V750C742.9 715.4 768.4 687.5 800 687.5 831.6 687.5 857.1 715.4 857.1 750V843.8C857.1 930.1 793.2 1000 714.3 1000H142.9C63.9 1000 0 930.1 0 843.8V218.8C0 132.4 63.9 62.5 142.9 62.5H228.6C260.2 62.5 285.7 90.4 285.7 125 285.7 159.6 260.2 187.5 228.6 187.5H142.9Z",
+        "width": 1000
+      },
+      "search": [
+        "share"
+      ]
+    },
+    {
+      "uid": "d7d4273c4fb36208f1d177e5997eef8d",
+      "css": "instagram",
+      "code": 59420,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "",
+        "width": 1000
+      },
+      "search": [
+        "instagram"
+      ]
+    },
+    {
+      "uid": "f775e721e14058c282ee196b6ca9417e",
+      "css": "growth-1",
+      "code": 59421,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "",
+        "width": 1000
+      },
+      "search": [
+        "growth"
+      ]
+    },
+    {
+      "uid": "357217ba765a86e2961004eb3c46f36f",
+      "css": "juice-1",
+      "code": 59422,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "",
+        "width": 1000
+      },
+      "search": [
+        "juice"
+      ]
+    }
+  ]
+}
